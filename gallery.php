@@ -3,7 +3,7 @@
 
 	<head>
 		<title>Catlinman - Gallery</title>
-		<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/head.php";?>
+		<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/head.php";?>
 		<link rel="stylesheet" type="text/css" href="/colorbox.css">
 		<script type="text/javascript" src="/jquery.colorbox.min.js"></script>
 		<script>
@@ -27,7 +27,7 @@
 
 	<body>
 		<div id="wrapper">
-			<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/header.php";?>
+			<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/header.php";?>
 			<div class="container loading centered">
 				<h1 class="centered">Loading gallery</h1>
 				<div class="spinner centered">

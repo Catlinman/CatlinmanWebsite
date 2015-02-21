@@ -3,12 +3,12 @@
 
 	<head>
 		<title>Catlinman</title>
-		<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/head.php";?>
+		<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/head.php";?>
 	</head>
 
 	<body>
 		<div id="wrapper">
-			<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/header.php";?>
+			<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/header.php";?>
 			<div class="layout" id="layout-main">
 				<div class="container" style="width:615px;margin-top:0px;margin-right:5px;float:left">
 					<div class="content" style="width:577px;height:720px">
