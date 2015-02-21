@@ -47,6 +47,19 @@
 				<br>
 				<div class="container">
 					<div class="content">
+						<h1>Programming and web design</h1>
+						<p class="justified">
+							If you want to know more about my programming skills and some of the web related projects I have worked on, your best bet is to first of all check out my
+							<a href="https://github.com/Catlinman">GitHub profile</a>.
+							There you will find a good deal of open source work I've taken part in over the last couple of years. If you want some specifics on web design then you can either take
+							this page as a starting point for that or the <a href="http://hivecom.net">Hivecom Teamspeak's website</a>. Either way you will also find that most of the games I have worked on in the past have their
+							source code open to anyone to see so do have a look at some of that if you are still interested. If you want to know all the languages and tools I've worked with in the past
+							then do have a look at the next section of this page.
+						</p>
+					</div>
+				</div>
+				<div class="container">
+					<div class="content">
 						<h1>Tools</h1>
 						</br>
 						<h2>Game development and programming</h2>
