@@ -376,14 +376,14 @@ a#da-button:after {
 }
 #twitterwidget {
 	float: right;
-	margin-right: 6px;
-	margin-top: 6px;
+	margin-right: 6px !important;
+	margin-top: 6px !important;
 	background: linear-gradient(#1a1a1a, #0f0f0f);
 	width: 250px;
 	height: 730px;
-	padding-bottom: 6px;
-	padding-left: 10px;
-	padding-right: 8px;
+	padding-bottom: 6px !important;
+	padding-left: 10px !important;
+	padding-right: 8px !important;
 	border-radius: 2px;
 	box-shadow: inset 0px 0px 5px #000;
 }
