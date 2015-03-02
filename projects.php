@@ -38,21 +38,17 @@
 						"opacity": "0"
 					});
 					$(".project").hover(function() {
-						if (!changingPage) {
-							$(this).stop().animate({
-								"margin-top": "8px",
-								"margin-bottom": "24px",
-								"opacity": "1"
-							});
-						}
+						$(this).stop().animate({
+							"margin-top": "8px",
+							"margin-bottom": "24px",
+							"opacity": "1"
+						});
 					}, function() {
-						if (!changingPage) {
-							$(this).stop().animate({
-								"margin-top": "16px",
-								"margin-bottom": "16px",
-								"opacity": "1"
-							});
-						}
+						$(this).stop().animate({
+							"margin-top": "16px",
+							"margin-bottom": "16px",
+							"opacity": "1"
+						});
 					});
 					$(".project").click(function() {
 						if ($(this).attr("active") == "true") {
@@ -129,10 +125,10 @@
 				</div>
 			</div>
 			<div class="layout" id="layout-projects">
-				<div name="placeholder" class="container project">
+				<div name="meganeko" class="container project">
 					<div class="project-content">
 						<div class="project-background"></div>
-						<img class="project-thumbnail" src="/images/projects/placeholder_thumb.jpg">
+						<img class="project-thumbnail" src="/images/projects/meganeko_thumb.jpg">
 					</div>
 				</div>
 				<div name="voidproject" class="container project">
@@ -147,10 +143,27 @@
 						<img class="project-thumbnail" src="/images/projects/tr_thumb.jpg">
 					</div>
 				</div>
-				<div name="placeholder" class="foldout">
+				<div name="meganeko" class="foldout">
 					<div class="container">
 						<div class="content">
-							<h1 class="centered">Not much to see here - content to come soon&#0153;</h1>
+							<h1 class="centered">Meganeko - boy irl girl url - Visualizations</h1>
+							<iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/vbQvkpq83l8?rel=0" frameborder="0" allowfullscreen></iframe>
+							<p class="justified">
+								In March of 2015 I teamed up with the electronic music artist <a href="https://twitter.com/robothuggles">Meganeko</a> to provide him with the visualizations
+								for his album release of "boy irl girl url". The visuals were done in Adobe After Effects CS6. My main job was to come up with some simple and slick visuals
+								for each of the tracks in the album. The outcome speaks for itself and can be seen above.
+							</p>
+							<br>
+							<br>
+							<h1 class="centered">
+								<a href="http://meganeko.bandcamp.com/album/boy-irl-girl-url">Buy the album on Bandcamp</a>
+							</h1>
+							<br>
+							<br>
+							<h2 class="centered"><a href="https://twitter.com/robothuggles" target="_blank">Meganeko on Twitter</a></h2>
+							<h2 class="centered"><a href="https://www.facebook.com/robothuggles" target="_blank">Meganeko's Facebook page</a></h2>
+							<h2 class="centered"><a href="https://www.youtube.com/user/robothuggles" target="_blank">Meganeko on Youtube</a></h2>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -164,9 +177,9 @@
 								it is done completely on the side of other more major tasks. Void is open-source and can be downloaded over GitHub. The binaries will be released once a playable version is available. Until then those interested will have to
 								launch the project using their own binaries based on the LÖVE2D game framework.
 							</p>
-							</br>
+							<br>
 							<h2 class="centered"><a href="https://github.com/Catlinman/Void" target="_blank">The Void project on GitHub</a></h2>
-							</br>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -185,11 +198,11 @@
 								<a href="https://twitter.com/isogash" target="_blank">Funrom</a>. My main role in the group is to manage the social accounts including Twitter and the YouTube channel as well as to create the music visualizations that are uploaded
 								to the official YouTube channel.
 							</p>
-							</br>
+							<br>
 							<h2 class="centered"><a href="https://www.youtube.com/YTTraditionalRecords" target="_blank">Traditional Records' official YouTube Channel</a></h2>
 							<h2 class="centered"><a href="https://twitter.com/TRDRecords" target="_blank">Traditional Records on Twitter</a></h2>
 							<h2 class="centered"><a href="https://soundcloud.com/groups/traditional-records" target="_blank">Traditional Records' SoundCloud fan group</a></h2>
-							</br>
+							<br>
 							<p class="centered"><b>Videos</b>
 							</p>
 							<div class="centered">
@@ -200,7 +213,7 @@
 								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/VNDdjcllW2k?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_8bit_thumb.jpg">
 								</a>
 							</div>
-							</br>
+							<br>
 							<div class="centered">
 								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/0zyoHkv5WcE?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_nameisnotname_thumb.jpg">
 								</a>
@@ -209,7 +222,7 @@
 								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/boJ84QbhHf0?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_nitronova_thumb.jpg">
 								</a>
 							</div>
-							</br>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -241,10 +254,10 @@
 								of their songs. Since then I have also taken over some of the editing work for their videos, matching up the video recordings to the music of the commercial song, creating the illusion that they are playing the song live within
 								their videos.
 							</p>
-							</br>
+							<br>
 							<h2 class="centered"><a href="https://www.facebook.com/visualsnowofficial" target="_blank">Visual Snow's Facebook page</a></h2>
 							<h2 class="centered"><a href="https://www.youtube.com/channel/UCumoAhspfWyzsO2QWbZgM5Q" target="_blank">Visual Snow on Youtube</a></h2>
-							</br>
+							<br>
 							</p>
 							<div class="centered">
 								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/u5Uucwi.jpg"><img class="project-imagethumnnail" src="/images/projects/vslogo_thumb.jpg">
@@ -254,7 +267,7 @@
 								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/6OGqNQG.jpg"><img class="project-imagethumnnail" src="/images/projects/vslogo_poster_thumb.jpg">
 								</a>
 							</div>
-							</br>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -268,13 +281,13 @@
 								randomly generated level to another. While passing through the ground's layers and levels the player has to fight the evil that resides beneath. The player's only help is a strange glowing light that helps him see through the
 								mist.
 							</p>
-							</br>
+							<br>
 							<p>
 								In the Dark was written in Javascript and uses the <a href="http://threejs.org/" target="_blank">Three.js</a> library
 							</p>
-							</br>
+							<br>
 							<h2 class="centered"><a href="/games/ld29.php" target="_blank">Play In the Dark in your browser</a></h2>
-							</br>
+							<br>
 							<p class="centered"><b>Screenshots</b>
 							</p>
 							<div class="centered">
@@ -285,7 +298,7 @@
 								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr3.jpg"><img class="project-imagethumnnail" src="/images/projects/itd_scr3_thumb.jpg">
 								</a>
 							</div>
-							</br>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -301,7 +314,7 @@
 								3D-Gear over to racing through the country on horseback or even defending from an onslaught of enemies using canons and racing through the cities of the show. All this comes together inside of a game that uses the strengths
 								and ideas of the show to deliver a fun yet challenging experience while still staying true to the lore of the main storyline.
 							</p>
-							</br>
+							<br>
 							<p class="centered">
 								<b>
 								The project is on hold due to other projects having a higher priority and a bunch of other stuff. You can read more on that at the bottom of this
@@ -351,7 +364,7 @@
 									<li>Particles!</li>
 								</ul>
 							</p>
-							</br>
+							<br>
 							<p>
 								Strikewatch was written in lua and utilizes the DaisyMoon engine by <a href="http://www.oxeyegames.com/" target="_blank">Oxeye Games</a>
 							</p>
@@ -365,9 +378,9 @@
 								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr3.jpg"><img class="project-imagethumnnail" src="/images/projects/sw_scr3_thumb.jpg">
 								</a>
 							</div>
-							</br>
+							<br>
 							<h2 class="centered"><a href="http://catlinman.itch.io/strikewatch" target="_blank">Download Strikewatch from itch.io</a></h2>
-							</br>
+							<br>
 						</div>
 					</div>
 				</div>
@@ -391,7 +404,7 @@
 					<div class="container">
 						<div class="content">
 							<h1 class="centered">Colorblind</h1>
-							</br>
+							<br>
 							<p class="justified">
 								Colorblind is a top down shooter I made for the Ludum Dare 26 game-jam within 24 hours. The game is a down to the basics shooter with the only goal being to survive for as long as possible against waves of oncoming enemies. Through the course of the player's
 								game the scene fades in and out of color depending on the player's progress and skill.
@@ -400,9 +413,9 @@
 								The game was written completely in lua and was made utilizing the <a href="https://love2d.org/" target="_blank">Love2D framework</a>. Since it was one of my first game projects it generally lacks content and more complex game
 								play but it is still fun to play nevertheless.
 							</p>
-							</br>
+							<br>
 							<h2 class="centered"><a href="http://www.ludumdare.com/compo/ludum-dare-26/?action=preview&uid=20482" target="_blank">Download Colorblind from its Ludum Dare page</a></h2>
-							</br>
+							<br>
 							<p class="centered"><b>Screenshots</b>
 							</p>
 							<div class="centered">
@@ -413,7 +426,7 @@
 								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr3.jpg"><img class="project-imagethumnnail" src="/images/projects/cb_scr3_thumb.jpg">
 								</a>
 							</div>
-							</br>
+							<br>
 						</div>
 					</div>
 				</div>

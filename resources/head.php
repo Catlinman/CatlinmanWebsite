@@ -1,4 +1,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="description" content="Catlinman is a freelance game developer, programmer, graphic artist and 3d animator">
 <meta name="keywords" content="catlinman,programmer,game development,graphic artist,3d animator">
 <meta name="author" content="Catlinman">
