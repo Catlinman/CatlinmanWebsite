@@ -25,22 +25,22 @@
 							For business inquiries and more private matters, you can send me an email at <a href="mailto:dev.catlinman@gmail.com" target="_blank">dev.catlinman@gmail.com</a>
 						</p>
 						<p>
-							You can also ask me more casual questions if you like by going to my <a href="http://ask.fm/Catlinman" target="_blank">ask.fm</a> page.
+							You can also ask me more casual questions if you like by going to my <a href="http://ask.fm/catlinman" target="_blank">ask.fm</a> page.
 						</p>
 						</br>
 						<p class="centered">
 							<a href="https://twitter.com/catlinman_" target="_blank">Twitter</a> |
 							<a href="http://catlinmans.tumblr.com/" target="_blank">Tumblr</a> |
-							<a href="https://www.youtube.com/user/xCatlinman" target="_blank">Youtube</a> |
+							<a href="https://www.youtube.com/catlinmanofficial" target="_blank">Youtube</a> |
 							<a href="http://catlinman.deviantart.com/" target="_blank">DeviantArt</a> |
 							<a href="https://www.facebook.com/catlinmanofficial" target="_blank"> Facebook</a> |
 							<a href="https://www.linkedin.com/in/catlinman" target="_blank"> Linkedin</a> |
-							<a href="https://github.com/Catlinman" target="_blank">GitHub</a> |
+							<a href="https://github.com/catlinman" target="_blank">GitHub</a> |
 							<a href="http://instagram.com/catlinman" target="_blank">Instagram</a> |
-							<a href="https://www.flickr.com/photos/124187273@N08/" target="_blank">Flickr</a> |
+							<a href="https://www.flickr.com/catlinman" target="_blank">Flickr</a> |
 							<a href="http://steamcommunity.com/id/catlinman" target="_blank">Steam</a> |
 							<a href="http://catlinman.itch.io/" target="_blank">itch.io</a> |
-							<a href="http://ask.fm/Catlinman" target="_blank">ask.fm</a>
+							<a href="http://ask.fm/catlinman" target="_blank">ask.fm</a>
 						</p>
 					</div>
 				</div>
@@ -58,6 +58,7 @@
 						</p>
 					</div>
 				</div>
+                <br>
 				<div class="container">
 					<div class="content">
 						<h1>Tools</h1>
@@ -116,9 +117,9 @@
 						</ul>
 					</div>
 				</div>
-				<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/sidebar.php";?>
+				<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/sidebar.php";?>
 			</div>
-			<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/footer.php";?>
+			<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/footer.php";?>
 		</div>
 	</body>
 

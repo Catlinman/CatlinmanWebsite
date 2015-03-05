@@ -432,7 +432,7 @@
 				</div>
 				<div class="project-divider"></div>
 			</div>
-			<?php include $_SERVER[ 'DOCUMENT_ROOT']. "/resources/footer.php";?>
+			<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/footer.php";?>
 		</div>
 	</body>
 
