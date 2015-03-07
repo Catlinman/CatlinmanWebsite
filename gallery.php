@@ -87,9 +87,13 @@
 
 				<h1 class="container centered">CG Work</h1>
 				<div class="imagedivider">
-					<a class="colorbox-iframe imagecontainer fader" title="XaviNightshade Intro Animation" rel="gallery-artwork" href="//www.youtube-nocookie.com/embed/hr_1BQ_-Px0?rel=0"><img src="/images/gallery/xavinightshade_intro_thumb.jpg">
+                	<a class="colorbox imagecontainer fader" title="Bleached Colors" rel="gallery-cg" href="http://i.imgur.com/jUcgO0A.jpg"><img src="/images/gallery/bleached_colors_thumb.jpg">
 					</a>
-					<a class="colorbox-iframe imagecontainer fader" title="Jar of Hearts" rel="gallery-artwork" href="//www.youtube-nocookie.com/embed/sByCBKFA1J8?rel=0"><img src="/images/gallery/jarofhearts_thumb.jpg">
+                	<a class="colorbox imagecontainer fader" title="Blender Render Tests II" rel="gallery-cg" href="http://i.imgur.com/VgVl60h.jpg"><img src="/images/gallery/blender_rendertests2_thumb.jpg">
+					</a>
+					<a class="colorbox-iframe imagecontainer fader" title="XaviNightshade Intro Animation" rel="gallery-cg" href="//www.youtube-nocookie.com/embed/hr_1BQ_-Px0?rel=0"><img src="/images/gallery/xavinightshade_intro_thumb.jpg">
+					</a>
+					<a class="colorbox-iframe imagecontainer fader" title="Jar of Hearts" rel="gallery-cg" href="//www.youtube-nocookie.com/embed/sByCBKFA1J8?rel=0"><img src="/images/gallery/jarofhearts_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="Blender Render Tests I" rel="gallery-cg" href="http://i.imgur.com/Gh30vH9.jpg"><img src="/images/gallery/blender_rendertests1_thumb.jpg">
 					</a>

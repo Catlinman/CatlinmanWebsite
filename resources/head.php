@@ -57,3 +57,17 @@
 		pageready = true;
 	});
 </script>
+
+<script type="application/ld+json">
+	{ "@context" : "http://schema.org",
+	"@type" : "Person",
+	"name" : "Catlinman",
+	"url" : "http://catlinman.com",
+	"sameAs" : [
+			"https://www.facebook.com/catlinmanofficial",
+			"https://www.youtube.com/catlinmanofficial",
+			"https://instagram.com/catlinman/",
+			"https://twitter.com/catlinman_"
+		] 
+	}
+</script>
