@@ -99,7 +99,7 @@
 					</a>
 					<a class="colorbox-iframe imagecontainer fader" title="Jan Dolanský Alternative Intro" rel="gallery-cg" href="//www.youtube-nocookie.com/embed/x2OkWcgV3m4?rel=0"><img src="/images/gallery/jandolansky_intro2014_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="Interior Architecture Study" rel="gallery-cg" href="http://i.imgur.com/GbYDyXp.jpg"><img src="/images/gallery/interior_room_thumb.jpg">
+					<a class="colorbox imagecontainer fader" title="Interior Architecture Study" rel="gallery-cg" href="http://i.imgur.com/zZVk623.jpg"><img src="/images/gallery/interior_room_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="Sportsball" rel="gallery-cg" href="http://i.imgur.com/n74ksft.png"><img src="/images/gallery/sportsball_thumb.jpg">
 					</a>
