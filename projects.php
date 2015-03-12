@@ -206,20 +206,26 @@
 							<p class="centered"><b>Videos</b>
 							</p>
 							<div class="centered">
-								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/RrtMdDcj5i4?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_axisdefied_thumb.jpg">
+								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/RrtMdDcj5i4?rel=0">
+									<img class="project-imagethumnnail" src="/images/projects/tr_axisdefied_thumb.jpg">
 								</a>
-								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/Qh6NTNAz2Ps?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_operator_thumb.jpg">
+								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/Qh6NTNAz2Ps?rel=0">
+									<img class="project-imagethumnnail" src="/images/projects/tr_operator_thumb.jpg">
 								</a>
-								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/VNDdjcllW2k?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_8bit_thumb.jpg">
+								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/VNDdjcllW2k?rel=0">
+									<img class="project-imagethumnnail" src="/images/projects/tr_8bit_thumb.jpg">
 								</a>
 							</div>
 							<br>
 							<div class="centered">
-								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/0zyoHkv5WcE?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_nameisnotname_thumb.jpg">
+								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/0zyoHkv5WcE?rel=0">
+									<img class="project-imagethumnnail" src="/images/projects/tr_nameisnotname_thumb.jpg">
 								</a>
-								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/_4qEF-LIJ0c?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_funrom_thumb.jpg">
+								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/_4qEF-LIJ0c?rel=0">
+									<img class="project-imagethumnnail" src="/images/projects/tr_funrom_thumb.jpg">
 								</a>
-								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/boJ84QbhHf0?rel=0"><img class="project-imagethumnnail" src="/images/projects/tr_nitronova_thumb.jpg">
+								<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/boJ84QbhHf0?rel=0">
+									<img class="project-imagethumnnail" src="/images/projects/tr_nitronova_thumb.jpg">
 								</a>
 							</div>
 							<br>
@@ -260,11 +266,14 @@
 							<br>
 							</p>
 							<div class="centered">
-								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/u5Uucwi.jpg"><img class="project-imagethumnnail" src="/images/projects/vslogo_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/u5Uucwi.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/vslogo_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/2BMdN58.jpg"><img class="project-imagethumnnail" src="/images/projects/vslogo_burst_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/2BMdN58.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/vslogo_burst_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/6OGqNQG.jpg"><img class="project-imagethumnnail" src="/images/projects/vslogo_poster_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="visualsnow" href="http://i.imgur.com/6OGqNQG.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/vslogo_poster_thumb.jpg">
 								</a>
 							</div>
 							<br>
@@ -277,7 +286,7 @@
 							<h1 class="centered">In the Dark</h1>
 							<iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/wISIqEDVIeg" frameborder="0" allowfullscreen></iframe>
 							<p class="justified">
-								In the Dark is a WebGL based game made for the Ludum Dare 29 competition and is based on the theme of 'beneath the surface'. The gameplay mainly revolves around the principle of the player descending through the ground every few moments moving from one
+								In the Dark is a WebGL based game made for the Ludum Dare 29 competition (2014) and is based on the theme of 'beneath the surface'. The gameplay mainly revolves around the principle of the player descending through the ground every few moments moving from one
 								randomly generated level to another. While passing through the ground's layers and levels the player has to fight the evil that resides beneath. The player's only help is a strange glowing light that helps him see through the
 								mist.
 							</p>
@@ -291,11 +300,14 @@
 							<p class="centered"><b>Screenshots</b>
 							</p>
 							<div class="centered">
-								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr1.jpg"><img class="project-imagethumnnail" src="/images/projects/itd_scr1_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr1.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/itd_scr1_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr2.jpg"><img class="project-imagethumnnail" src="/images/projects/itd_scr2_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr2.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/itd_scr2_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr3.jpg"><img class="project-imagethumnnail" src="/images/projects/itd_scr3_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="inthedark" href="/images/projects/itd_scr3.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/itd_scr3_thumb.jpg">
 								</a>
 							</div>
 							<br>
@@ -352,7 +364,7 @@
 								top of that, the player has to fight their way through the ever increasing waves of enemies while always keeping track of their time and ammunition.
 							</p>
 							<p>
-								Strikewatch was originally created for the Ludum Dare 27 game jam under the working title of Timebullet. Since then it has come a long way but it still plays the same as the original game but with a huge set of improvements and additions.
+								Strikewatch was originally created for the Ludum Dare 27 game jam (2013) under the working title of Timebullet. Since then it has come a long way but it still plays the same as the original game but with a huge set of improvements and additions.
 							</p>
 							<p>
 								<b>Features:</b>
@@ -371,11 +383,14 @@
 							<p class="centered"><b>Screenshots</b>
 							</p>
 							<div class="centered">
-								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr1.jpg"><img class="project-imagethumnnail" src="/images/projects/sw_scr1_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr1.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/sw_scr1_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr2.jpg"><img class="project-imagethumnnail" src="/images/projects/sw_scr2_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr2.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/sw_scr2_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr3.jpg"><img class="project-imagethumnnail" src="/images/projects/sw_scr3_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="strikewatch" href="/images/projects/sw_scr3.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/sw_scr3_thumb.jpg">
 								</a>
 							</div>
 							<br>
@@ -406,7 +421,7 @@
 							<h1 class="centered">Colorblind</h1>
 							<br>
 							<p class="justified">
-								Colorblind is a top down shooter I made for the Ludum Dare 26 game-jam within 24 hours. The game is a down to the basics shooter with the only goal being to survive for as long as possible against waves of oncoming enemies. Through the course of the player's
+								Colorblind is a top down shooter I made for the Ludum Dare 26 game-jam (2013) within 24 hours. The game is a down to the basics shooter with the only goal being to survive for as long as possible against waves of oncoming enemies. Through the course of the player's
 								game the scene fades in and out of color depending on the player's progress and skill.
 							</p>
 							<p class="justified">
@@ -419,11 +434,14 @@
 							<p class="centered"><b>Screenshots</b>
 							</p>
 							<div class="centered">
-								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr1.jpg"><img class="project-imagethumnnail" src="/images/projects/cb_scr1_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr1.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/cb_scr1_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr2.jpg"><img class="project-imagethumnnail" src="/images/projects/cb_scr2_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr2.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/cb_scr2_thumb.jpg">
 								</a>
-								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr3.jpg"><img class="project-imagethumnnail" src="/images/projects/cb_scr3_thumb.jpg">
+								<a class="colorbox project-imagecontainer fader" rel="colorblind" href="/images/projects/cb_scr3.jpg">
+									<img class="project-imagethumnnail" src="/images/projects/cb_scr3_thumb.jpg">
 								</a>
 							</div>
 							<br>
