@@ -54,10 +54,7 @@
 					<a class="colorbox imagecontainer fader" title="2014 Funrom Logo" rel="gallery-artwork" href="http://i.imgur.com/rNMIRTT.png">
 						<img src="/images/gallery/funrom_logo_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2014 Traditional Records Logo" rel="gallery-artwork" href="http://i.imgur.com/zTtnhIq.jpg">
-						<img src="/images/gallery/traditionalrecords_logo_thumb.jpg">
-					</a>
-					<a class="colorbox imagecontainer fader" title="2014 Second Try Splash Screen" rel="gallery-artwork" href="http://i.imgur.com/8rzozgR.jpg">
+					<a class="colorbox imagecontainer fader" title="2014 Second Try Splash Screen" rel="gallery-artwork" href="http://i.imgur.com/dw4fOkI.jpg">
 						<img src="/images/gallery/secondtry_splash_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="2014 Axis Defied Logo" rel="gallery-artwork" href="http://i.imgur.com/JxpJkBu.jpg">
@@ -66,31 +63,31 @@
 					<a class="colorbox imagecontainer fader" title="2014 Name Is Not Name Logo" rel="gallery-artwork" href="http://i.imgur.com/61XNI5v.jpg">
 						<img src="/images/gallery/nameisnotname_logo_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2014 Mechapress Logo" rel="gallery-artwork" href="http://i.imgur.com/QxK3AJ0.png">
+					<a class="colorbox imagecontainer fader" title="2014 Mechapress Logo" rel="gallery-artwork" href="http://i.imgur.com/NgyDWu8.jpg">
 						<img src="/images/gallery/mechapress_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2014 Jan Dolanský Logo" rel="gallery-artwork" href="http://i.imgur.com/GuGuoY7.png">
+					<a class="colorbox imagecontainer fader" title="2014 Jan Dolanský Logo" rel="gallery-artwork" href="http://i.imgur.com/p364aIk.jpg">
 						<img src="/images/gallery/jandolansky_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2014 Neukünstler Logo" rel="gallery-artwork" href="http://i.imgur.com/uKWR8k7.jpg">
+					<a class="colorbox imagecontainer fader" title="2014 Neukünstler Logo" rel="gallery-artwork" href="http://i.imgur.com/kjzN1Qp.jpg">
 						<img src="/images/gallery/neukuenstler_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="2014 Dream's End" rel="gallery-artwork" href="http://i.imgur.com/5E3lwBt.jpg">
 						<img src="/images/gallery/dreamsend_thumb.jpg">
 					</a>
-					<a class="colorbox-iframe imagecontainer fader" title="2013 Beyond the Sky" rel="gallery-artwork" href="//www.youtube-nocookie.com/embed/JiEbhBEHWQE?rel=0">
+					<a class="colorbox imagecontainer fader" title="2013 Beyond the Sky" rel="gallery-artwork" href="http://i.imgur.com/SnyvRPe.jpg">
 						<img src="/images/gallery/bts_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Spilled Roses" rel="gallery-artwork" href="http://i.imgur.com/S9jpJ.jpg">
+					<a class="colorbox imagecontainer fader" title="2013 Spilled Roses" rel="gallery-artwork" href="http://i.imgur.com/TpAT2Ni.jpg">
 						<img src="/images/gallery/spilledroses_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Watcher" rel="gallery-artwork" href="http://i.imgur.com/9JRuaO6.jpg">
+					<a class="colorbox imagecontainer fader" title="2013 Watcher" rel="gallery-artwork" href="http://i.imgur.com/DmAP69t.jpg">
 						<img src="/images/gallery/watcher_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="2013 Stripes" rel="gallery-artwork" href="http://i.imgur.com/nAkMHyO.jpg">
 						<img src="/images/gallery/stripes_thumb.jpg">
 					</a>
-					<a class="colorbox-iframe imagecontainer fader" title="2013 Locke Wallpaper Speed Art" rel="gallery-artwork" href="//www.youtube-nocookie.com/embed/NrW-hFM4HCU?rel=0">
+					<a class="colorbox imagecontainer fader" title="2013 Locke Wallpaper Speed Art" rel="gallery-artwork" href="http://i.imgur.com/yDjlw2A.jpg">
 						<img src="/images/gallery/locke_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="2013 Spirit" rel="gallery-artwork" href="http://i.imgur.com/WLbT42m.jpg">
@@ -102,10 +99,10 @@
 					<a class="colorbox imagecontainer fader" title="2013 Greyjoy" rel="gallery-artwork" href="http://i.imgur.com/iWJL9tt.jpg">
 						<img src="/images/gallery/greyjoy_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Orange Fortress Logo" rel="gallery-artwork" href="http://i.imgur.com/4y9Mytc.jpg">
+					<a class="colorbox imagecontainer fader" title="2013 Orange Fortress Logo" rel="gallery-artwork" href="http://i.imgur.com/rmzggdK.jpg">
 						<img src="/images/gallery/orangefortress_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Ectopic Pace-Makers" rel="gallery-artwork" href="http://i.imgur.com/baIED5U.jpg">
+					<a class="colorbox imagecontainer fader" title="2013 Ectopic Pace-Makers" rel="gallery-artwork" href="http://i.imgur.com/HtCh5pW.jpg">
 						<img src="/images/gallery/ecp_thumb.jpg">
 					</a>
 				</div>
