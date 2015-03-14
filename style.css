@@ -84,19 +84,19 @@ a:hover {
 }
 header {
 	display: block;
-	margin-left: auto;
+	margin-left: -15px;
 	margin-right: auto;
 	margin-top: 10px;
 	margin-bottom: 20px;
 	height: 140px;
-	width: 950px
+	width: 900px
 }
 #logo {
 	display: block;
 	background: url(images/logo.png) no-repeat 0 10px;
-	background-size: 940px 150px;
+	background-size: 926px 150px;
 	margin-bottom: 40px;
-	width: 920px;
+	width: 900px;
 	height: 140px;
 	padding: 10px;
 }
@@ -104,13 +104,12 @@ header {
 	background-position: 0 0px;
 }
 nav {
-	width: 909px;
+	width: 900px;
+	height: 85px;
 	margin-top: -40px;
-	margin-left: 20px;
+	margin-left: 15px;
 }
 nav a {
-	margin-left: 2px;
-	margin-right: 1px;
 	float: left;
 	width: 300px;
 	height: 85px;
@@ -133,8 +132,8 @@ nav a {
 #about-button:after {
 	background: url(images/main_sprite.png) -300px -170px;
 }
-#wrapper {
-	width: 1080px;
+#layout-header {
+	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -190,7 +189,13 @@ nav a {
 	position: absolute;
 	width: 98px;
 	right: -105px;
-	top: 0px
+	top: 0px;
+	opacity: 1;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-o-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
 }
 .sidebar-content {
 	position: relative;
@@ -445,4 +450,54 @@ canvas {
 		transform: scale(1.0);
 		-webkit-transform: scale(1.0);
 	}
+}
+@media all and (max-width: 1120px) {
+	.sidebar{
+		opacity:0;
+	}
+}
+
+@media all and (max-width: 1080px) {
+	#layout-gallery {
+		width: 900px;
+	}
+	#layout-projects {
+		width: 900px;
+	}
+	.imagecontainer {
+		margin: 12px;
+	}
+	.project {
+		width: 284px;
+		height: 218px;
+	}
+	.project-thumbnail {
+		width: 265px;
+		height: 200px;
+	}
+	.project-background {
+		width: 265px;
+		height: 200px;
+	}
+	.project-content {
+		width: 275px;
+		height: 210px;
+	}
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    border-left: 1px #393f2f;
+    background: #0c0c0c;
+}
+::-webkit-scrollbar-thumb {
+    background: #454545;
+    -webkit-border-radius: 1ex;
+    -webkit-box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 1);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #ffc259;
+}
+::-webkit-scrollbar-corner {
+    background: #000;
 }

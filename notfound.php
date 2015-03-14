@@ -7,10 +7,10 @@
 </head>
 
 <body>
-    <div id="wrapper">
+    <div id="layout-header">
         <?php include $_SERVER['DOCUMENT_ROOT']. "/resources/header.php";?>
-        <div class="layout" id="layout-gallery">
-            <h1 class="container centered">The page requested was not found</h1>
+        <div class="layout" id="layout-main">
+            <h1 class="container centered">The requested page was not found</h1>
         </div>
     </div>
 </body>

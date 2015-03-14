@@ -3,7 +3,7 @@
 <meta name="description" content="Catlinman is a freelance game developer, programmer, graphic artist and 3d animator">
 <meta name="keywords" content="catlinman,programmer,game development,graphic artist,3d animator">
 <meta name="author" content="Catlinman">
-<meta name="viewport" content="width=1080">
+<meta name="viewport" content="width=900">
 <meta charset="UTF-8">
 <meta itemprop="image" content="/images/metaimage.png">
 <meta name="twitter:card" content="summary" />
