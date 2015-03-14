@@ -57,7 +57,7 @@
 					<a class="colorbox imagecontainer fader" title="2014 Second Try Splash Screen" rel="gallery-artwork" href="http://i.imgur.com/dw4fOkI.jpg">
 						<img src="/images/gallery/secondtry_splash_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2014 Axis Defied Logo" rel="gallery-artwork" href="http://i.imgur.com/JxpJkBu.jpg">
+					<a class="colorbox imagecontainer fader" title="2014 Axis Defied Logo" rel="gallery-artwork" href="http://i.imgur.com/UmqfH4x.jpg">
 						<img src="/images/gallery/axisdefied_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="2014 Name Is Not Name Logo" rel="gallery-artwork" href="http://i.imgur.com/61XNI5v.jpg">
@@ -87,14 +87,8 @@
 					<a class="colorbox imagecontainer fader" title="2013 Stripes" rel="gallery-artwork" href="http://i.imgur.com/nAkMHyO.jpg">
 						<img src="/images/gallery/stripes_thumb.jpg">
 					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Locke Wallpaper Speed Art" rel="gallery-artwork" href="http://i.imgur.com/yDjlw2A.jpg">
+					<a class="colorbox imagecontainer fader" title="2013 Locke Wallpaper Speed Art" rel="gallery-artwork" href="http://i.imgur.com/XncAPSW.jpg">
 						<img src="/images/gallery/locke_thumb.jpg">
-					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Spirit" rel="gallery-artwork" href="http://i.imgur.com/WLbT42m.jpg">
-						<img src="/images/gallery/spirit_thumb.jpg">
-					</a>
-					<a class="colorbox imagecontainer fader" title="2013 Fury" rel="gallery-artwork" href="http://i.imgur.com/TLzmc.jpg">
-						<img src="/images/gallery/mace_fury_thumb.jpg">
 					</a>
 					<a class="colorbox imagecontainer fader" title="2013 Greyjoy" rel="gallery-artwork" href="http://i.imgur.com/iWJL9tt.jpg">
 						<img src="/images/gallery/greyjoy_thumb.jpg">
