@@ -73,7 +73,7 @@
 				<a class="colorbox imagecontainer fader" title="2014 Neukünstler Logo" rel="gallery-artwork" href="http://i.imgur.com/kjzN1Qp.jpg">
 					<img src="/images/gallery/neukuenstler_thumb.jpg">
 				</a>
-				<a class="colorbox imagecontainer fader" title="2014 Dream's End" rel="gallery-artwork" href="http://i.imgur.com/5E3lwBt.jpg">
+				<a class="colorbox imagecontainer fader" title="2014 Dream's End" rel="gallery-artwork" href="http://i.imgur.com/xEeEOS3.jpg">
 					<img src="/images/gallery/dreamsend_thumb.jpg">
 				</a>
 				<a class="colorbox imagecontainer fader" title="2013 Beyond the Sky" rel="gallery-artwork" href="http://i.imgur.com/SnyvRPe.jpg">
@@ -104,6 +104,9 @@
 
 			<h1 class="container centered">CG Work</h1>
 			<div class="imagedivider">
+				<a class="colorbox imagecontainer fader" title="2015 Overdrive" rel="gallery-artwork" href="http://i.imgur.com/1HfQtuy.jpg">
+					<img src="/images/gallery/overdrive_thumb.jpg">
+				</a>
             	<a class="colorbox imagecontainer fader" title="2015 Bleached Colors" rel="gallery-cg" href="http://i.imgur.com/jUcgO0A.jpg">
 					<img src="/images/gallery/bleached_colors_thumb.jpg">
 				</a>
@@ -137,7 +140,7 @@
 				<a class="colorbox imagecontainer fader" title="2014 Gauss Rifle Render" rel="gallery-cg" href="http://i.imgur.com/oYJTUrq.jpg">
 					<img src="/images/gallery/gaussrifle_thumb.jpg">
 				</a>
-				<a class="colorbox-iframe imagecontainer fader" title="2014 Janeator Intro" rel="gallery-cg" href="//www.youtube-nocookie.com/embed/WmiNrwP5Q7o?rel=0">
+				<a class="colorbox-iframe imagecontainer fader" title="2014/2015 Janeator Intro" rel="gallery-cg" href="//www.youtube-nocookie.com/embed/otRpuI96rWE?rel=0">
 					<img src="/images/gallery/janeator_intro_thumb.jpg">
 				</a>
 				<a class="colorbox-iframe imagecontainer fader" title="2014 Audio Visualization Templates" rel="gallery-cg" href="//www.youtube-nocookie.com/embed/KBYW4EwOaro?rel=0">

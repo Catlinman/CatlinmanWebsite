@@ -118,7 +118,6 @@
 					</ul>
 				</div>
 			</div>
-			<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/sidebar.php";?>
 		</div>
 		<?php include $_SERVER['DOCUMENT_ROOT']. "/resources/footer.php";?>
 	</body>
