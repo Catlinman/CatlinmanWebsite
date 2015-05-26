@@ -104,7 +104,7 @@
 
 			<h1 class="container centered">CG Work</h1>
 			<div class="imagedivider">
-				<a class="colorbox imagecontainer fader" title="2015 Overdrive" rel="gallery-artwork" href="http://i.imgur.com/1HfQtuy.jpg">
+				<a class="colorbox imagecontainer fader" title="2015 Overdrive" rel="gallery-cg" href="http://i.imgur.com/1HfQtuy.jpg">
 					<img src="/images/gallery/overdrive_thumb.jpg">
 				</a>
             	<a class="colorbox imagecontainer fader" title="2015 Bleached Colors" rel="gallery-cg" href="http://i.imgur.com/jUcgO0A.jpg">
