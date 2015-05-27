@@ -5,6 +5,7 @@
 <meta name="author" content="Catlinman">
 <meta name="viewport" content="width=900">
 <meta charset="UTF-8">
+
 <meta itemprop="image" content="/images/metaimage.png">
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@catlinman_" />
@@ -15,8 +16,10 @@
 <meta name="twitter:domain" content="http://catlinman.com">
 <meta name="twitter:url" content="http://catlinman.com" />
 <meta property="og:url" content="http://catlinman.com">
+
 <link rel="shortcut icon" href="/images/icon.png" type="image/x-icon">
 <link rel="icon" href="/images/icon.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="/images/apple-icon.png">
 <link rel="stylesheet" type="text/css" href="/style.css">
 
 <link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
