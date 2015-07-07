@@ -190,11 +190,10 @@
 						<h1 class="centered">Traditional Records Music Label</h1>
 						<iframe width="853" height="480" src="//www.youtube-nocookie.com/embed/OBkkvGsdOm8?rel=0" frameborder="0" allowfullscreen></iframe>
 						<p class="justified">
-							Over the third quarter of 2014 I co-created a music label known as Traditional Records. The group currently consists of five main artists and is willing to highlight and feature new and upcoming artists willing to go the extra mile for their work. Traditional
+							During the third quarter of 2014 I co-created a music label known as Traditional Records. The group currently consists of five main artists and is willing to highlight and feature new and upcoming artists willing to go the extra mile for their work. Traditional
 							Records specializes in electronic music in form of electro house, drum and base, ambiance and other more abstract genres. The main artists within the label are
 							<a href="https://twitter.com/Op3ratorRecords" target="_blank">Op3rator</a>,
 							<a href="https://twitter.com/AxisDefied" target="_blank">Axis Defied</a>,
-							<a href="https://twitter.com/8BitMaster_" target="_blank">8Bit!</a>,
 							<a href="https://twitter.com/nameisnotname" target="_blank">Name Is Not Name</a> and
 							<a href="https://twitter.com/isogash" target="_blank">Funrom</a>. My main role in the group is to manage the social accounts including Twitter and the YouTube channel as well as to create the music visualizations that are uploaded
 							to the official YouTube channel.
@@ -212,9 +211,6 @@
 							</a>
 							<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/Qh6NTNAz2Ps?rel=0">
 								<img class="project-imagethumnnail" src="/images/projects/tr_operator_thumb.jpg">
-							</a>
-							<a class="colorbox-iframe project-imagecontainer fader" rel="traditionalrecords" href="//www.youtube-nocookie.com/embed/VNDdjcllW2k?rel=0">
-								<img class="project-imagethumnnail" src="/images/projects/tr_8bit_thumb.jpg">
 							</a>
 						</div>
 						<br>

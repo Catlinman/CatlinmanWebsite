@@ -17,7 +17,7 @@
 					<p class="justified">
 						I'm a self taught independent game developer and graphic artist located in the north of Germany. Generally when I am not in school or doing other real-life things I end up working on video game projects, artworks, 3D animations and a multitude of other
 						computer related things. All of this work mainly depends on the spare time I have leftover since most of it is done on a free and uncoordinated schedule. I mostly work on projects by myself but I have also worked together with
-						others. Some of my more collaborative work can be seen on my <a href="https://github.com/Catlinman" target="_blank">Github page</a> which at this point includes a modding framework, a collaborative game
+						others. Some of my more collaborative work can be seen on my <a href="https://github.com/catlinman" target="_blank">Github page</a> which at this point includes a modding framework, a collaborative game
 						project as well as an expansion of a mod's plug-in system.
 					</p>
 					<p class="justified">
@@ -29,7 +29,7 @@
 						section of the website. I should note however that the images found in the gallery are not only from artworks but also contain pictures from my other game related projects.
 					</p>
 					<p class="justified">
-						Other than that I also manage a <a href="http://catlinmans.tumblr.com/" target="_blank">Tumblr blog</a>. If you want to stay up to date with the things I do, your best chance would be to check in there every once in a while.
+						Other than that I also manage a <a href="http://blog.catlinman.com/" target="_blank">Blog</a>. If you want to stay up to date with the things I do, your best chance would be to check in there every once in a while.
 					</p>
 					<p class="justified">
 						If you want to see all of the pages you can find me on, you can visit my about page by clicking the button in the top.
